@@ -1,0 +1,5 @@
+System.out.println('Imma organize your files!')
+new OrganizeFiles().execute()
+//new CatalogFiles().execute()
+//new OrganizeFiles().clearProgress()
+System.out.println("I'm done!")
